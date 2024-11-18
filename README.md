@@ -23,12 +23,12 @@ Soy un desarrollador apasionado por la tecnología y siempre en busca de aprende
 ## 📫 ¿Cómo contactarme?
 - **Correo**: [manuelvegas279@gmail.com](mailto:manuelvegas279@gmail.com)
 - **Teléfono**: +34 639373071
-- **GitHub**: [https://github.com/maanuuvegas](https://github.com/maanuuvegas)
+- **GitHub**: [https://github.com/maanuuvegasCreator](https://github.com/maanuuvegasCreator)
 - **Ubicación**: Madrid, Madrid
 
 ## 🔗 Proyectos
-Algunos de mis proyectos favoritos:
-Los podéis encontrar en mi github y poder disfrutar de mucha variedad
+Algunos de mis proyectos favoritos:  
+Los podéis encontrar en mi GitHub y disfrutar de una gran variedad.
 
 ## 🏆 Formación
 - **CFGS Desarrollo de Aplicaciones Multiplataforma** (U-TAD)
@@ -47,7 +47,7 @@ Los podéis encontrar en mi github y poder disfrutar de mucha variedad
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=maanuuvegas&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=maanuuvegasCreator&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
