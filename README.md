@@ -24,6 +24,7 @@ Soy un desarrollador apasionado por la tecnología y siempre en busca de aprende
 - **Correo**: [manuelvegas279@gmail.com](mailto:manuelvegas279@gmail.com)
 - **Teléfono**: +34 639373071
 - **GitHub**: [https://github.com/maanuuvegasCreator](https://github.com/maanuuvegasCreator)
+- **LinkedIn**: [www.linkedin.com/in/manuelvegasrodriguez1](https://www.linkedin.com/in/manuelvegasrodriguez1)
 - **Ubicación**: Madrid, Madrid
 
 ## 🔗 Proyectos
