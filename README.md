@@ -28,15 +28,7 @@ Soy un desarrollador apasionado por la tecnología y siempre en busca de aprende
 
 ## 🔗 Proyectos
 Algunos de mis proyectos favoritos:
-
-1. **[Nombre del proyecto 1]**  
-   Descripción breve del proyecto 1. [Enlace al repositorio del proyecto]
-
-2. **[Nombre del proyecto 2]**  
-   Descripción breve del proyecto 2. [Enlace al repositorio del proyecto]
-
-3. **[Nombre del proyecto 3]**  
-   Descripción breve del proyecto 3. [Enlace al repositorio del proyecto]
+Los podéis encontrar en mi github y poder disfrutar de mucha variedad
 
 ## 🏆 Formación
 - **CFGS Desarrollo de Aplicaciones Multiplataforma** (U-TAD)
